@@ -1,7 +1,7 @@
 <!-- Trungquandev -->
 
-<h2 align="center"> 🔥  Hi ae , My name is Tuan Anh 🔥 </h2>
-<p align="center"> Tôi là lập trình viên website (FE) 👽 </p>
+<h2 align="center"> 🔥  Hello everyone , My name is Tuan Anh 🔥 </h2>
+<p align="center"> I'm a FrontEnd developer (FE) 👽 </p>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="JavaScript logo" title="JavaScript" height="25" /></span>
